@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto tem como objetivo desmotar um microsserviço de enviode email 
+Esse projeto tem como objetivo desmotar um microsserviço de envio de email 
 
 
 ## Config
