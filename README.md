@@ -32,8 +32,11 @@ utilizando servidor de mensageria RabbitMQ.
 
 
 ## Config
+<h3>smtp</h3>
 Guia para gerar código de 16 dígitos para 
 configurar o smtp do gmail:https://support.google.com/accounts/answer/185833
+<h3>RabbitMQ</h3>
+Através da criação da conta no site RabbitMQ séra necessario gerar endreço AMQP URL para configuração do application.properties
 
 ## :hammer: Para executar o projeto no terminal, digite o seguinte comando:
 
