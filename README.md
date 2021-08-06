@@ -44,7 +44,7 @@ Através da criação da conta no site RabbitMQ séra necessario gerar endreço 
 mvn spring-boot:run 
 ```
 
-## Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto com eureka:
+## Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
 
 ```
 http://localhost:8080
