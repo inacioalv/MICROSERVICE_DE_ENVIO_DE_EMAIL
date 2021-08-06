@@ -20,13 +20,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Spring](https://spring.io/)
 - [Jpa](https://spring.io/projects/spring-data-redis)
 - [Spring Boot Starter Mail](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-mail)
+- [RabbitMQ](https://www.rabbitmq.com/)
 - [Postgresql](https://www.postgresql.org/)
 - [lombok](https://projectlombok.org/)
 
 
 ## 💻 Projeto
 
-Esse projeto tem como objetivo desmotar um microsserviço de envio de email 
+Esse projeto tem como objetivo desmotar um microsserviço de envio de email via smtp,
+utilizando servidor de mensageria RabbitMQ.
 
 
 ## Config
